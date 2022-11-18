@@ -1,0 +1,27 @@
+body{
+    font-family: 'Oswald', sans-serif;
+
+background-color: #f9f9fd;}
+div{
+   
+}
+.div1{
+    /* box-shadow: 
+    -15px -15px 2px -5px rgba(rgb(0, 0, 0), rgb(0, 0, 0), blue, .5),
+    -15px 15px 2px -5px rgba(rgb(0, 0, 0), rgb(255, 0, 0), rgb(0, 0, 255), .5),
+     15px -15px 2px -5px rgba(red, rgb(0, 0, 0), rgb(0, 0, 0), .5),
+     15px 15px 2px -5px rgba(red, green, rgb(0, 0, 0), .5);
+    */
+    display: inline-block;
+   margin: 10em;
+    width: 30em;
+    text-align: left;
+    border-radius: 1%;
+    box-shadow: 
+    0 2.5px 2px red, 0 5px 4px blue, 0 10px 5px rgb(0, 117, 0), 
+    0 12px 4px purple, 0 25px 15px rgb(209, 136, 0),
+    0 60px 40px teal
+
+    ;
+    
+}  
